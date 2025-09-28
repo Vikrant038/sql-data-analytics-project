@@ -3,7 +3,8 @@
 Date Range Exploration 
 ===============================================================================
 Purpose:
-    - To explore the structure of dimension tables.
+    - To determine the temporal boundaries of key data points.
+    - To understand the range of historical data.
 
 ===============================================================================
 
