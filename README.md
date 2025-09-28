@@ -1,5 +1,6 @@
 # sql-data-analytics-project
 An extensive set of SQL scripts for reporting, analytics, and data exploration. These scripts cover a wide range of analyses, including segmentation, time-based trends, cumulative analytics, database exploration, measures and metrics, and more. This collection of SQL queries is intended to assist BI specialists and data analysts in rapidly exploring, segmenting, and analyzing data in relational databases. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
+
 The dataset that I have used is created in my datawarehouse project and I'm performing Analytics and data exploration on that dataset.So, to ease things I have added the csv files...
 
 ---
